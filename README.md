@@ -28,6 +28,8 @@ Currently planned features are something like:
 
 # Ideas
 - Audit log to get best possible GoDB conformity
+- Test and increase data validation and error handling (frontend / backend)
+- Provide own rules for number creation (customers, docs, ...)
 - Export for tax inspections
 - Asset management (computers etc...)
 - Create more templates for different doc types
