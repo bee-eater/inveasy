@@ -22,7 +22,7 @@ Currently planned features are something like:
 - Export documents as PDF via LaTeX templates
 - EPC QR code on invoices
 - Saving of exported documents
-- Support of ZUGFeRD invoicing using (https://github.com/pretix/python-drafthorse)[python-drafthorse]
+- Support of ZUGFeRD invoicing using [python-drafthorse](https://github.com/pretix/python-drafthorse)
 - Locking of documents as soon as it's required. (e.g. protect / lock an invoice document as soon as it's exported, so it can't be changed anymore...)
 
 
@@ -32,3 +32,4 @@ Currently planned features are something like:
 - Asset management (computers etc...)
 - Create more templates for different doc types
 - Make everything more customizable via the frontend
+- Add document signing via [pyHanko](https://github.com/MatthiasValvekens/pyHanko)
