@@ -11,6 +11,7 @@ If anyone should be interested in helping with development please let me know an
 Currently planned features are something like:
 - Create companies (--> The user could manage multiple companies)
 - Create customers and employees of the customer with detailed info
+- Create customer actions, to track what was already done (e.g. Call because of something etc...)
 - Automatic creation of customer numbers and document numbers
 - Default discount values etc. can be set for a customer
 - Create document templates containing opening, closing etc.
