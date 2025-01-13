@@ -1,12 +1,14 @@
 # Info
 The tool is currently beeing implemented using Django DRF and React with Material-UI. Since I'm neither a front- nor a backend developer, I'm pretty sure the code has a lot of potential for improvement :-))
 
-> [!UPDATE]  
+> [!IMPORTANT]  
 > The project has a rather advanced state, as I'm using it for my own purposes already. There are a lot of tasks at hand:
+> 
 > - Continue development of features and functionality in frontend and backend
 > - Check and improve software architecture
 > - Starup-Guide (on Frontend)
 > - ...
+>   
 > **So if anyone is interested in contributing, please let me know!**
 
 Deployment is planned as two containers, one for frontend (vite) and one for the backend (django, redis, celery, LaTeX environment). Currently frontend is based on node:20-alpine and backend on phusion/baseimage:jammy.
