@@ -19,7 +19,7 @@ If anyone should be interested in helping with development please let me know an
 
 ## 💖 Help Me Keep This Project Going
 
-Maintaining and improving this project takes time, energy, and resources. If you’ve found it useful, inspiring, or valuable in any way, consider supporting its continued development:
+Maintaining and improving this project takes time, energy, and resources. If you like the idea and want to see the project progressing and released, consider supporting its continued development! Ideally you're a frontend (react) or backend (python) dev and you're in need of a tool like this! 
 
 ## 🙌 Ways You Can Help
 
