@@ -17,6 +17,18 @@ Documentation creation is done with LaTeX via celery and redis, so if you know y
 
 If anyone should be interested in helping with development please let me know and I'll move the project to github!
 
+### 🙌 Ways You Can Help
+
+- **Contribute** – Are you a frontend or backend developer? Let me know if you want to contribute!
+- **Share the project** – Spread the word!
+- **Open issues** – Found a bug or have a feature suggestion? Open an issue and let me know!
+- **Support financially** – If you’d like to support this work directly, consider:
+
+  - ❤️ [Sponsor me on GitHub](https://github.com/sponsors/bee-eater)
+  - 🧡 [Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=MUS7QJU8YB9CY)
+
+Your support makes a real difference — thank you!
+
 # Features
 Currently planned features are something like:
 - [x] Create companies (--> The user could manage multiple companies)
