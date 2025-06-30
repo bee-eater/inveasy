@@ -17,7 +17,7 @@ Documentation creation is done with LaTeX via celery and redis, so if you know y
 
 If anyone should be interested in helping with development please let me know and I'll move the project to github!
 
-### 🙌 Ways You Can Help
+# 🙌 Ways You Can Help
 
 - **Contribute** – Are you a frontend or backend developer? Let me know if you want to contribute!
 - **Share the project** – Spread the word!
