@@ -11,7 +11,7 @@ The tool is currently beeing implemented using Django DRF and React with Materia
 >   
 > **So if anyone is interested in contributing, please let me know!**
 
-Deployment is planned as two containers, one for frontend (vite) and one for the backend (django, redis, celery, LaTeX environment). Currently frontend is based on node:20-alpine and backend on phusion/baseimage:jammy.
+Deployment is planned as a single container, which contains all neccessary services (django, redis, celery, gunicorn, nginx, LaTeX). Currently the backend is based on phusion/baseimage:jammy.
 
 Documentation creation is done with LaTeX via celery and redis, so if you know your way around a little the templates are highly customizable, so you can design whatever you like!
 
