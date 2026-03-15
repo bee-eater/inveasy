@@ -48,9 +48,10 @@ Currently planned features are something like:
 - [x] Saving of exported documents
 - [x] Support of ZUGFeRD invoicing using [python-drafthorse](https://github.com/pretix/python-drafthorse)
 - [x] Locking of documents as soon as it's required. (e.g. protect / lock an invoice document as soon as it's exported, so it can't be changed anymore...)
+- [x] EPC QR code on invoices
 - [ ] Create customer actions, to track what was already done (e.g. Call because of something etc...)
 - [ ] Manage travel times including pdf export of overview including amounts for meals per diem (Verpflegungspauschale)
-- [ ] EPC QR code on invoices
+
 
 Some checked features are implemented just rudimentary and could be improved. 
 
